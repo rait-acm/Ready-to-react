@@ -41,6 +41,7 @@
   - [ ] Map
   - [ ] Reduce
   - [ ] Filter
+  - [ ] Rest and Spread operators
   - [ ] Arrow functions
   - [ ] Real examples
   - [ ] Higher order functions with arrow functions
