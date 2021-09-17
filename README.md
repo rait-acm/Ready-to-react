@@ -55,4 +55,4 @@
   - [ ] async, await
   - [ ] Script loading async, defer 
 
-<img alt="loading" src="https://c.tenor.com/gfmfwqdidD0AAAAC/loading-buffering.gif"></img> 
+<img alt="loading" src="https://i.stack.imgur.com/hzk6C.gif"></img> 
