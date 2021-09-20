@@ -1,14 +1,14 @@
 # Ready-to-react
 
 - [ ] Day1
-  - [ ] What is web dev?-Road map and available routes
-  - [ ] Why JS?
-  - [ ] What are the primitive values
-  - [ ] variables and declaration of variables
-  - [ ] typeof operator
-  - [ ] arithmetic, math and all
-  - [ ] loops in JS
-  - [ ] conditionals
+  - [x] What is web dev?-Road map and available routes
+  - [x] Why JS?
+  - [x] What are the primitive values
+  - [x] variables and declaration of variables
+  - [x] typeof operator
+  - [x] arithmetic, math and all
+  - [x] loops in JS
+  - [x] conditionals
   - [ ] truthy vs falsy values
   - [ ] comparison (== VS ===)
 
