@@ -1,6 +1,6 @@
 # Ready-to-react
 
-- [ ] Day1
+- [x] Day1
   - [x] What is web dev?-Road map and available routes
   - [x] Why JS?
   - [x] What are the primitive values
@@ -9,20 +9,20 @@
   - [x] arithmetic, math and all
   - [x] loops in JS
   - [x] conditionals
-  - [ ] truthy vs falsy values
-  - [ ] comparison (== VS ===)
+  - [x] truthy vs falsy values
+  - [x] comparison (== VS ===)
 
 - [ ] Day2
-  - [ ] How js works behind the scenes
-  - [ ] Context
-  - [ ] Hoisting
-  - [ ] Why undefined appears
-  - [ ] Scopes
+  - [x] How js works behind the scenes
+  - [x] Context
+  - [x] Hoisting
+  - [x] Why undefined appears
+  - [x] Scopes
   - [ ] Difference between var and let and const (hoisting and scopes)
-  - [ ] Execution of a program
-  - [ ] Functions in js
-  - [ ] How to define a function
-  - [ ] Execution of a function
+  - [x] Execution of a program
+  - [x] Functions in js
+  - [x] How to define a function
+  - [x] Execution of a function
   - [ ] Functional scope of var
   - [ ] First class nature of function
 
