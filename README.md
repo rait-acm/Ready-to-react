@@ -12,23 +12,23 @@
   - [x] truthy vs falsy values
   - [x] comparison (== VS ===)
 
-- [ ] Day2
+- [x] Day2
   - [x] How js works behind the scenes
   - [x] Context
   - [x] Hoisting
   - [x] Why undefined appears
   - [x] Scopes
-  - [ ] Difference between var and let and const (hoisting and scopes)
+  - [x] Difference between var and let and const (hoisting and scopes)
   - [x] Execution of a program
   - [x] Functions in js
   - [x] How to define a function
   - [x] Execution of a function
-  - [ ] Functional scope of var
-  - [ ] First class nature of function
+  - [x] Functional scope of var
+  - [x] First class nature of function
 
 - [ ] Day3
-  - [ ] What are objects
-  - [ ] Ways of initializing an object
+  - [x] What are objects
+  - [x] Ways of initializing an object
   - [ ] Object destructuring
   - [ ] Null explained difference between null and undefined
   - [ ] Arrays (what are arrays)
