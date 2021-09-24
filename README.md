@@ -26,25 +26,25 @@
   - [x] Functional scope of var
   - [x] First class nature of function
 
-- [ ] Day3
+- [x] Day3
   - [x] What are objects
   - [x] Ways of initializing an object
-  - [ ] Object destructuring
-  - [ ] Null explained difference between null and undefined
-  - [ ] Arrays (what are arrays)
-  - [ ] Looping through arrays
-  - [ ] Array of objects and examples
+  - [x] Object destructuring
+  - [x] Null explained difference between null and undefined
+  - [x] Arrays (what are arrays)
+  - [x] Looping through arrays
+  - [x] Array of objects and examples
 
 
 - [ ] Day4
-  - [ ] Higher order functions
-  - [ ] Map
+  - [x] Higher order functions
+  - [x] Map
   - [ ] Reduce
-  - [ ] Filter
+  - [x] Filter
   - [ ] Rest and Spread operators
-  - [ ] Arrow functions
+  - [x] Arrow functions
   - [ ] Real examples
-  - [ ] Higher order functions with arrow functions
+  - [x] Higher order functions with arrow functions
   - [ ] JSON
 
 
