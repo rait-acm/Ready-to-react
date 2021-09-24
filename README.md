@@ -36,23 +36,23 @@
   - [x] Array of objects and examples
 
 
-- [ ] Day4
+- [x] Day4
   - [x] Higher order functions
   - [x] Map
-  - [ ] Reduce
+  - [x] Reduce
   - [x] Filter
-  - [ ] Rest and Spread operators
+  - [x] Rest and Spread operators
   - [x] Arrow functions
-  - [ ] Real examples
+  - [x] Real examples
   - [x] Higher order functions with arrow functions
-  - [ ] JSON
+  - [x] JSON
 
 
-- [ ] Day5
-  - [ ] Promises (concept)
-  - [ ] Fetch
-  - [ ] Fun with Fetch (contains use of fetch api, JSON, higher order functions, arrays and objects covered in previous sessions)
-  - [ ] async, await
-  - [ ] Script loading async, defer 
+- [x] Day5
+  - [x] Promises (concept)
+  - [x] Fetch
+  - [x] Fun with Fetch (contains use of fetch api, JSON, higher order functions, arrays and objects covered in previous sessions)
+  - [x] async, await
+  - [x] Script loading async, defer 
 
 <img alt="loading" src="https://i.stack.imgur.com/hzk6C.gif"></img> 
